@@ -12,7 +12,7 @@
     
 - 🌱 I’m graduating in May 2023 and actively looking for full-time oppurtunites.
     
-- 🤝 I’m open for any opputuinites to work with wonderful tech organizations and happy to connect with anyone.
+- 🤝 I’m open for any opputuinites to work with wonderful tech companies and happy to connect with anyone.
     
 - 🌱 I  worked as a Full stack developer having 2 years of work experience in web development using javascript, typescript and java.
     
