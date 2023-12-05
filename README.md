@@ -8,13 +8,13 @@
     <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
     
-- 🔭 I gradauted with my masters in computer science at Texas Tech University.
+- 🔭 I graduated with my masters in computer science at Texas Tech University.
         
 - 🤝 I’m open for any opputuinites to work with wonderful tech companies and happy to connect with anyone.
     
 - 🌱 I  worked as a Full stack developer having 3+ years of work experience in web development using React, javascript, Node.js, typescript and java(Spring,SpringBoot).
     
-- 📝 I blog  on [https://linga.hashnode.dev/](https://dev.to/100rabhcsmc)
+- 📝 I blog  on [hashnode](https://linga.hashnode.dev/)
     
 - 💬 I can talk about ** Web development, Reactjs, Nodejs, Angualar, SpringBoot, mySQL and MongoDB and AWS**
     
