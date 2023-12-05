@@ -16,6 +16,6 @@
     
 - 📝 I blog  on [hashnode](https://linga.hashnode.dev/)
     
-- 💬 I can talk about ** Web development, Reactjs, Nodejs, Angualar, SpringBoot, mySQL and MongoDB and AWS**
+- 💬 I can talk about ** Web development, Reactjs, Nodejs, Angular, SpringBoot, mySQL and MongoDB and AWS,Azure Devops**
     
 - 📫 Reach me at  **dandalingaiah363@gmail.com**
