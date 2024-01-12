@@ -12,10 +12,10 @@
         
 - 🤝 I’m open for any opputuinites to work with wonderful tech companies and happy to connect with anyone.
     
-- 🌱 I  worked as a Full stack developer having 3+ years of work experience in web development using React, javascript, Node.js, typescript and java(Spring,SpringBoot).
+- 🌱 I  worked as a Full stack developer having 3+ years of work experience in web development using React, Angular , Microservices and java(Spring,SpringBoot).
     
 - 📝 I blog  on [hashnode](https://linga.hashnode.dev/)
     
-- 💬 I can talk about ** Web development, Reactjs, Nodejs, Angular, SpringBoot, mySQL and MongoDB and AWS,Azure Devops**
+- 💬 I can talk about ** Web development, Reactjs, Angular, SpringBoot, mySQL , MySQLServer, Docker, AWS,Azure Devops**
     
 - 📫 Reach me at  **dandalingaiah363@gmail.com**
